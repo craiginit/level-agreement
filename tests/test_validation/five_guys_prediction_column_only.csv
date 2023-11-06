@@ -1,0 +1,165 @@
+prediction
+" 'quality.appearance-damage.-1', 'quality.flavour-bland.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'experience.recommend.-1', 'food-safety.packaging-packing.-1'  "
+  'food-drink.portion-size.1'  
+" 'restaurant.wait-time-queue.-1', 'staff.attitude-of-staff.-1', 'experience.recommend.-1'   'company-brand.reputation-customer-expectation.1', 'food-drink.portion-size.1'  "
+" 'restaurant.wait-time-queue.-1', 'delivery.courier-deliver-partner.-1', 'staff.attitude-of-staff.-1'  "
+" 'restaurant.cleanliness-hygiene.-1', 'restaurant.wait-time-queue.-1', 'staff.attitude-of-staff.-1', 'experience.recommend.-1'  "
+" 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'experience.intent-to-return.1'  "
+" 'restaurant.quality-satisfaction.1', 'restaurant.location.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'staff.overall-satisfaction.1', 'staff.customer-support.1', 'staff.staff-member-named.1', 'experience.overall-satisfaction.1', 'experience.intent-to-return.1'  "
+" 'quality.food-drink-quality.1', 'food-drink.drink.1', 'food-drink.fries.1', 'food-drink.burger-patties.1'  "
+" 'quality.food-drink-quality.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'experience.intent-to-return.-1'  "
+" 'quality.food-drink-quality.1', 'staff.overall-satisfaction.1'  "
+" 'quality.texture.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'food-drink.bread-bun.-1', 'experience.intent-to-return.-1'  "
+" 'food-drink.fries.-1', 'food-safety.allergic-reactions.-1'  "
+" 'food-drink.fries.-1', 'food-safety.allergic-reactions.-1'  "
+" 'company-brand.competitor-comparison.-1', 'food-drink.toppings-fillings.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.1'  "
+" 'quality.food-drink-quality.-1', 'quality.flavour-bland.-1', 'restaurant.quality-satisfaction.-1', 'experience.overall-satisfaction.-1', 'experience.intent-to-return.-1'  "
+" 'quality.food-drink-quality.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'staff.attitude-of-staff.1', 'experience.overall-satisfaction.1', 'experience.intent-to-return.1'  "
+" 'company-brand.brand-mention.1', 'quality.freshness-ingredient-quality.1', 'quality.food-drink-quality.1', 'restaurant.wait-time-queue.1', 'food-drink.drink.1', 'food-drink.toppings-fillings.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'food-drink.menu-variety.1', 'delivery.speed-timeliness.1', 'order-payment.ordering-process.1', 'food-safety.packaging-packing.1'  "
+" 'food-drink.fries.1', 'food-drink.burger-patties.1', 'food-drink.portion-size.-1'  "
+" 'quality.food-drink-quality.1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.fries.1', 'food-drink.burger-patties.1'  "
+" 'quality.food-drink-quality.1', 'food-drink.shake-milkshake.1', 'food-drink.fries.1', 'food-drink.burger-patties.1'  "
+" 'company-brand.competitor-comparison.-1', 'quality.food-drink-quality.-1', 'quality.flavour-bland.-1', 'quality.texture.-1', 'food-drink.burger-patties.-1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.-1'  "
+" 'company-brand.reviews.1', 'quality.freshness-ingredient-quality.1', 'quality.food-drink-quality.1', 'quality.preparation-satisfaction.1', 'restaurant.environment-atmosphere.-1', 'restaurant.bathrooms.-1', 'restaurant.wait-time-queue.1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.toppings-fillings.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.1'  "
+" 'quality.flavour-bland.-1', 'restaurant.cleanliness-hygiene.-1', 'restaurant.seating.-1', 'food-drink.burger-patties.-1', 'experience.overall-satisfaction.-1'  "
+   
+" 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'quality.preparation-satisfaction.1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'food-drink.burger-patties.1', 'food-drink.menu-variety.1'  "
+" 'quality.food-drink-quality.-1', 'quality.flavour-bland.-1', 'order-payment.price-value-for-money.-1'  "
+" 'company-brand.brand-mention.1', 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'quality.preparation-satisfaction.1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'food-drink.menu-variety.1', 'food-drink.portion-size.1', 'order-payment.ordering-process.1'  "
+" 'company-brand.brand-mention.-1', 'food-drink.burger-patties.-1', 'food-drink.bread-bun.-1', 'order-payment.refund.-1', 'experience.intent-to-return.-1', 'food-safety.foreign-objects.-1'  "
+ 'food-safety.allergic-reactions.1'  
+" 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'staff.attitude-of-staff.1'  "
+ 'quality.food-drink-quality.1'  
+" 'quality.seasoning.-1', 'quality.food-temperature.-1', 'quality.preparation-satisfaction.-1', 'food-drink.fries.-1'  "
+" 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'order-payment.refund.-1'  "
+" 'restaurant.wait-time-queue.-1', 'food-drink.fries.-1', 'delivery.speed-timeliness.-1', 'delivery.pickup-experience.-1'  "
+ 'staff.communication.-1'  
+" 'quality.flavour-bland.1', 'food-drink.fries.1', 'staff.attitude-of-staff.1', 'order-payment.price-value-for-money.1'  "
+" 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'restaurant.environment-atmosphere.1'  "
+" 'food-drink.shake-milkshake.-1', 'order-payment.refund.-1'  "
+ 'restaurant.location.-1'  
+" 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+" 'food-drink.fries.-1', 'food-drink.burger-patties.-1'  "
+" 'restaurant.cleanliness-hygiene.-1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'order-payment.price-value-for-money.-1'  "
+" 'quality.seasoning.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.1', 'order-payment.price-value-for-money.-1'  "
+" 'quality.food-drink-quality.1', 'restaurant.environment-atmosphere.1', 'restaurant.cleanliness-hygiene.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+" 'quality.preparation-satisfaction.-1', 'food-drink.burger-patties.-1'  "
+ 'order-payment.refund.-1'  
+" 'delivery.courier-deliver-partner.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+ 'food-safety.allergic-reactions.-1'  
+ 'order-payment.payment-process.-1'  
+ 'order-payment.refund.-1'  
+" 'staff.overall-satisfaction.1', 'staff.customer-support.1', 'staff.staff-member-named.1', 'staff.communication.1'  "
+" 'company-brand.brand-mention.-1', 'food-drink.fries.-1'  "
+" 'staff.communication.-1', 'order-payment.refund.-1'  "
+" 'quality.appearance-damage.-1', 'quality.food-drink-quality.-1', 'quality.fat-grease.-1', 'restaurant.environment-atmosphere.-1', 'restaurant.cleanliness-hygiene.-1', 'restaurant.wait-time-queue.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'delivery.speed-timeliness.-1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.-1', 'food-safety.packaging-packing.-1'  "
+" 'company-brand.reputation-customer-expectation.-1', 'quality.food-drink-quality.-1', 'experience.overall-satisfaction.-1'  "
+" 'quality.preparation-satisfaction.-1', 'food-drink.hot-dog.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1'  "
+" 'order-payment.payment-process.-1', 'order-payment.payment-method.-1', 'order-payment.refund.-1'  "
+" 'quality.food-drink-quality.-1', 'food-drink.hot-dog.-1', 'food-drink.sandwiches.-1', 'food-drink.burger-patties.-1', 'order-payment.price-value-for-money.-1'  "
+" 'quality.food-temperature.1', 'restaurant.busy-peak-hours.1','delivery.speed-timeliness.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+" 'food-drink.fries.-1', 'food-safety.foreign-objects.-1'  "
+ 'order-payment.promotions-offers.0'  
+" 'order-payment.payment-process.-1', 'order-payment.payment-method.-1'  "
+" 'quality.preparation-satisfaction.-1', 'food-drink.toppings-fillings.-1', 'experience.overall-satisfaction.-1'  "
+ 'food-drink.drink.-1'  
+" 'restaurant.bathrooms.-1', 'staff.staff-member-named.1'  "
+ 'order-payment.payment-process.-1'  
+" 'quality.food-drink-quality.-1', 'restaurant.cleanliness-hygiene.-1', 'restaurant.wait-time-queue.-1', 'food-drink.fries.-1', 'food-drink.portion-size.-1', 'experience.intent-to-return.-1'  "
+" 'order-payment.payment-process.-1', 'order-payment.refund.-1'  "
+" 'company-brand.reviews.1', 'food-drink.burger-patties.1', 'staff.overall-satisfaction.1'  "
+ 'restaurant.parking.-1'  
+" 'quality.food-drink-quality.-1', 'quality.food-temperature.-1'  "
+" 'quality.food-temperature.-1', 'quality.preparation-satisfaction.-1', 'food-drink.toppings-fillings.-1', 'order-payment.refund.-1', 'accuracy.missing-toppings.-1', 'accuracy.wrong-toppings.-1'  "
+" 'quality.preparation-satisfaction.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1'  "
+ 'staff.attitude-of-staff.1'  
+" 'quality.food-drink-quality.1', 'restaurant.wait-time-queue.1', 'food-drink.sandwiches.1', 'food-drink.burger-patties.1', 'staff.attitude-of-staff.1'  "
+" 'company-brand.brand-mention.-1', 'quality.freshness-ingredient-quality.-1', 'quality.food-drink-quality.-1', 'quality.preparation-satisfaction.-1', 'food-drink.hot-dog.-1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'order-payment.price-value-for-money.-1'  "
+" 'company-brand.suggestions.0', 'food-safety.dietary-requirements.-1'  "
+" 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'staff.attitude-of-staff.-1', 'order-payment.refund.-1'  "
+ 'order-payment.price-value-for-money.-1'  
+" 'staff.overall-satisfaction.1', 'staff.staff-member-named.1'  "
+" 'order-payment.payment-process.-1', 'order-payment.payment-method.-1'  "
+" 'restaurant.parking.-1', 'delivery.pickup-experience.-1'  "
+" 'company-brand.brand-mention.-1', 'company-brand.competitor-comparison.-1', 'order-payment.payment-process.-1', 'order-payment.payment-method.-1'  "
+" 'quality.preparation-satisfaction.-1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'food-drink.burger-patties.-1', 'food-safety.foreign-objects.-1'  "
+ 'order-payment.promotions-offers.0'  
+" 'quality.preparation-satisfaction.-1', 'food-drink.fries.1', 'food-drink.burger-patties.-1', 'order-payment.refund.-1'  "
+" 'company-brand.competitor-comparison.-1', 'quality.appearance-damage.-1', 'quality.food-drink-quality.-1', 'quality.flavour-bland.-1', 'quality.texture.-1', 'food-drink.burger-patties.-1', 'experience.intent-to-return.-1'  "
+" 'order-payment.payment-process.-1', 'order-payment.payment-method.-1'  "
+" 'quality.food-drink-quality.-1', 'quality.preparation-satisfaction.-1'  "
+ 'order-payment.payment-process.-1'  
+ 'quality.food-drink-quality.-1'  
+" 'restaurant.cleanliness-hygiene.-1', 'restaurant.seating.-1'  "
+" 'quality.food-drink-quality.1', 'quality.preparation-satisfaction.1', 'food-drink.burger-patties.1'  "
+ 'quality.food-drink-quality.1'  
+" 'company-brand.brand-mention.-1', 'restaurant.covid-19.-1', 'food-drink.fries.-1', 'delivery.courier-deliver-partner.-1', 'delivery.pickup-experience.-1', 'experience.overall-satisfaction.-1'  "
+ 'staff.staff-member-named.1'  
+" 'food-drink.drink.1', 'food-drink.shake-milkshake.1'  "
+" 'quality.food-drink-quality.1', 'restaurant.environment-atmosphere.1'  "
+ 'food-drink.shake-milkshake.-1'  
+ 'online-platform.functionality-ease-of-use.-1'  
+" 'restaurant.bathrooms.-1', 'food-drink.portion-size.-1'  "
+" 'food-drink.burger-patties.-1', 'order-payment.payment-process.-1'  "
+ 'food-drink.burger-patties.1'  
+" 'quality.food-temperature.-1', 'quality.texture.-1', 'food-drink.fries.1', 'food-drink.bread-bun.-1'  "
+ 'order-payment.price-value-for-money.-1'  
+" 'company-brand.brand-mention.-1', 'staff.problem-resolution.-1', 'staff.communication.-1', 'order-payment.payment-process.-1', 'order-payment.refund.-1'  "
+ 'order-payment.payment-method.0'  
+" 'food-drink.fries.1', 'food-drink.burger-patties.1', 'staff.overall-satisfaction.1', 'staff.staff-member-named.1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.1'  "
+" 'quality.preparation-satisfaction.1', 'restaurant.environment-atmosphere.1', 'restaurant.cleanliness-hygiene.1', 'restaurant.quality-satisfaction.1'  "
+" 'staff.overall-satisfaction.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+" 'quality.food-temperature.-1', 'restaurant.wait-time-queue.-1', 'delivery.speed-timeliness.-1', 'order-payment.refund.-1', 'experience.intent-to-return.-1'  "
+" 'staff.staff-member-named.1', 'food-safety.allergic-reactions.1'  "
+ 'food-drink.drink.-1'  
+ 'experience.overall-satisfaction.1'  
+" 'quality.food-drink-quality.1', 'food-drink.sandwiches.1'  "
+" 'food-drink.drink.-1', 'order-payment.payment-process.-1'  "
+ 'restaurant.location.-1'  
+" 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+" 'company-brand.reviews.-1', 'restaurant.cleanliness-hygiene.-1', 'restaurant.seating.-1'  "
+" 'quality.food-drink-quality.1', 'food-drink.fries.1'  "
+" 'order-payment.promotions-offers.-1', 'experience.overall-satisfaction.1'  "
+" 'quality.food-drink-quality.1', 'restaurant.environment-atmosphere.1', 'restaurant.wait-time-queue.1', 'experience.overall-satisfaction.1'  "
+" 'staff.customer-support.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+ 'food-drink.fries.-1'  
+" 'food-drink.hot-dog.1', 'food-drink.drink.1', 'food-drink.burger-patties.1', 'staff.overall-satisfaction.1', 'staff.customer-support.1'  "
+ 'restaurant.cleanliness-hygiene.-1'  
+" 'restaurant.cleanliness-hygiene.1', 'restaurant.wait-time-queue.1', 'food-drink.fries.1', 'staff.attitude-of-staff.1', 'experience.recommend.1', 'experience.overall-satisfaction.1'  "
+ 'experience.overall-satisfaction.1'  
+ 'experience.intent-to-return.1'  
+" 'staff.staff-member-named.1', 'food-safety.allergic-reactions.1'  "
+" 'quality.food-drink-quality.1', 'food-drink.portion-size.1', 'order-payment.price-value-for-money.1'  "
+" 'quality.food-drink-quality.1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+" 'quality.food-temperature.-1', 'quality.preparation-satisfaction.-1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1'  "
+" 'food-drink.drink.1', 'staff.overall-satisfaction.1', 'staff.staff-member-named.1'  "
+" 'quality.appearance-damage.-1', 'quality.food-drink-quality.1'  "
+ 'staff.customer-support.1'  
+" 'quality.freshness-ingredient-quality.-1', 'quality.food-drink-quality.-1', 'quality.preparation-satisfaction.-1', 'food-drink.shake-milkshake.-1', 'food-drink.burger-patties.-1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.-1'  "
+" 'delivery.speed-timeliness.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+" 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'order-payment.promotions-offers.-1', 'order-payment.price-value-for-money.-1'  "
+ 'experience.overall-satisfaction.1'  
+ 'food-drink.fries.-1'  
+" 'staff.overall-satisfaction.1', 'staff.staff-member-named.1'  "
+" 'restaurant.bathrooms.-1', 'staff.staff-member-named.1'  "
+" 'staff.staff-member-named.-1', 'order-payment.payment-process.-1', 'order-payment.refund.-1'  "
+" 'company-brand.brand-mention.-1', 'staff.customer-support.-1', 'staff.communication.-1', 'experience.intent-to-return.-1', 'food-safety.foreign-objects.-1'  "
+" 'food-drink.sandwiches.1', 'food-drink.burger-patties.1', 'staff.staff-member-named.1'  "
+" 'food-drink.peanut-oil.-1', 'food-drink.fries.-1', 'food-safety.allergic-reactions.-1'  "
+" 'quality.food-drink-quality.1', 'food-drink.hot-dog.1', 'food-drink.sandwiches.1', 'food-drink.drink.1', 'food-drink.burger-patties.1'  "
+" 'quality.food-temperature.-1', 'food-drink.burger-patties.-1', 'experience.overall-satisfaction.-1'  "
+ 'quality.food-drink-quality.1'  
+" 'company-brand.brand-mention.1', 'restaurant.cleanliness-hygiene.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1', 'experience.intent-to-return.1'  "
+ 'order-payment.refund.-1'  
+" 'quality.food-drink-quality.1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1'  "
+ 'restaurant.location.-1'  
+" 'order-payment.payment-process.-1', 'order-payment.payment-method.-1', 'order-payment.promotions-offers.-1'  "
+" 'quality.preparation-satisfaction.-1', 'food-drink.burger-patties.-1'  "
+" 'quality.preparation-satisfaction.-1', 'food-drink.burger-patties.-1', 'food-safety.caused-sickness-illness.-1'  "
+ 'food-drink.shake-milkshake.-1'  
+" 'staff.attitude-of-staff.-1', 'order-payment.promotions-offers.-1'  "
+" 'quality.preparation-satisfaction.-1', 'food-drink.fries.-1'  "
+" 'quality.food-drink-quality.-1', 'quality.food-temperature.-1', 'quality.preparation-satisfaction.-1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'food-drink.portion-size.-1', 'experience.overall-satisfaction.-1'  "
+" 'quality.preparation-satisfaction.-1', 'experience.overall-satisfaction.-1'  "
+ 'order-payment.refund.-1'  
+" 'quality.preparation-satisfaction.-1', 'food-drink.fries.-1'  "

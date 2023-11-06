@@ -1,0 +1,165 @@
+id,prediction
+598398253," 'quality.appearance-damage.-1', 'quality.flavour-bland.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'experience.recommend.-1', 'food-safety.packaging-packing.-1'  "
+598398359,  'food-drink.portion-size.1'  
+598399673," 'restaurant.wait-time-queue.-1', 'staff.attitude-of-staff.-1', 'experience.recommend.-1'   'company-brand.reputation-customer-expectation.1', 'food-drink.portion-size.1'  "
+598399698," 'restaurant.wait-time-queue.-1', 'delivery.courier-deliver-partner.-1', 'staff.attitude-of-staff.-1'  "
+598399751," 'restaurant.cleanliness-hygiene.-1', 'restaurant.wait-time-queue.-1', 'staff.attitude-of-staff.-1', 'experience.recommend.-1'  "
+598400737," 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'experience.intent-to-return.1'  "
+598401635," 'restaurant.quality-satisfaction.1', 'restaurant.location.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'staff.overall-satisfaction.1', 'staff.customer-support.1', 'staff.staff-member-named.1', 'experience.overall-satisfaction.1', 'experience.intent-to-return.1'  "
+598403073," 'quality.food-drink-quality.1', 'food-drink.drink.1', 'food-drink.fries.1', 'food-drink.burger-patties.1'  "
+598403209," 'quality.food-drink-quality.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'experience.intent-to-return.-1'  "
+598403271," 'quality.food-drink-quality.1', 'staff.overall-satisfaction.1'  "
+598405501," 'quality.texture.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'food-drink.bread-bun.-1', 'experience.intent-to-return.-1'  "
+598407024," 'food-drink.fries.-1', 'food-safety.allergic-reactions.-1'  "
+598407432," 'food-drink.fries.-1', 'food-safety.allergic-reactions.-1'  "
+598410919," 'company-brand.competitor-comparison.-1', 'food-drink.toppings-fillings.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.1'  "
+598414756," 'quality.food-drink-quality.-1', 'quality.flavour-bland.-1', 'restaurant.quality-satisfaction.-1', 'experience.overall-satisfaction.-1', 'experience.intent-to-return.-1'  "
+598415399," 'quality.food-drink-quality.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'staff.attitude-of-staff.1', 'experience.overall-satisfaction.1', 'experience.intent-to-return.1'  "
+598418796," 'company-brand.brand-mention.1', 'quality.freshness-ingredient-quality.1', 'quality.food-drink-quality.1', 'restaurant.wait-time-queue.1', 'food-drink.drink.1', 'food-drink.toppings-fillings.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'food-drink.menu-variety.1', 'delivery.speed-timeliness.1', 'order-payment.ordering-process.1', 'food-safety.packaging-packing.1'  "
+598420707," 'food-drink.fries.1', 'food-drink.burger-patties.1', 'food-drink.portion-size.-1'  "
+598421678," 'quality.food-drink-quality.1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.fries.1', 'food-drink.burger-patties.1'  "
+598425097," 'quality.food-drink-quality.1', 'food-drink.shake-milkshake.1', 'food-drink.fries.1', 'food-drink.burger-patties.1'  "
+598425285," 'company-brand.competitor-comparison.-1', 'quality.food-drink-quality.-1', 'quality.flavour-bland.-1', 'quality.texture.-1', 'food-drink.burger-patties.-1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.-1'  "
+598426583," 'company-brand.reviews.1', 'quality.freshness-ingredient-quality.1', 'quality.food-drink-quality.1', 'quality.preparation-satisfaction.1', 'restaurant.environment-atmosphere.-1', 'restaurant.bathrooms.-1', 'restaurant.wait-time-queue.1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.toppings-fillings.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.1'  "
+598427677," 'quality.flavour-bland.-1', 'restaurant.cleanliness-hygiene.-1', 'restaurant.seating.-1', 'food-drink.burger-patties.-1', 'experience.overall-satisfaction.-1'  "
+598428778,   
+598428926," 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'quality.preparation-satisfaction.1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'food-drink.burger-patties.1', 'food-drink.menu-variety.1'  "
+598429517," 'quality.food-drink-quality.-1', 'quality.flavour-bland.-1', 'order-payment.price-value-for-money.-1'  "
+598430497," 'company-brand.brand-mention.1', 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'quality.preparation-satisfaction.1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'food-drink.fries.1', 'food-drink.burger-patties.1', 'food-drink.menu-variety.1', 'food-drink.portion-size.1', 'order-payment.ordering-process.1'  "
+606338778," 'company-brand.brand-mention.-1', 'food-drink.burger-patties.-1', 'food-drink.bread-bun.-1', 'order-payment.refund.-1', 'experience.intent-to-return.-1', 'food-safety.foreign-objects.-1'  "
+606338932, 'food-safety.allergic-reactions.1'  
+606338966," 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'staff.attitude-of-staff.1'  "
+606339382, 'quality.food-drink-quality.1'  
+606339406," 'quality.seasoning.-1', 'quality.food-temperature.-1', 'quality.preparation-satisfaction.-1', 'food-drink.fries.-1'  "
+606339420," 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'order-payment.refund.-1'  "
+606339451," 'restaurant.wait-time-queue.-1', 'food-drink.fries.-1', 'delivery.speed-timeliness.-1', 'delivery.pickup-experience.-1'  "
+606339529, 'staff.communication.-1'  
+606339580," 'quality.flavour-bland.1', 'food-drink.fries.1', 'staff.attitude-of-staff.1', 'order-payment.price-value-for-money.1'  "
+606339656," 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'restaurant.environment-atmosphere.1'  "
+606339727," 'food-drink.shake-milkshake.-1', 'order-payment.refund.-1'  "
+606339740, 'restaurant.location.-1'  
+606339803," 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606339850," 'food-drink.fries.-1', 'food-drink.burger-patties.-1'  "
+606339868," 'restaurant.cleanliness-hygiene.-1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'order-payment.price-value-for-money.-1'  "
+606339869," 'quality.seasoning.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.1', 'order-payment.price-value-for-money.-1'  "
+606339930," 'quality.food-drink-quality.1', 'restaurant.environment-atmosphere.1', 'restaurant.cleanliness-hygiene.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606339932," 'quality.preparation-satisfaction.-1', 'food-drink.burger-patties.-1'  "
+606339988, 'order-payment.refund.-1'  
+606340004," 'delivery.courier-deliver-partner.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606340051, 'food-safety.allergic-reactions.-1'  
+606340056, 'order-payment.payment-process.-1'  
+606340097, 'order-payment.refund.-1'  
+606340122," 'staff.overall-satisfaction.1', 'staff.customer-support.1', 'staff.staff-member-named.1', 'staff.communication.1'  "
+606340135," 'company-brand.brand-mention.-1', 'food-drink.fries.-1'  "
+606340204," 'staff.communication.-1', 'order-payment.refund.-1'  "
+606340250," 'quality.appearance-damage.-1', 'quality.food-drink-quality.-1', 'quality.fat-grease.-1', 'restaurant.environment-atmosphere.-1', 'restaurant.cleanliness-hygiene.-1', 'restaurant.wait-time-queue.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'delivery.speed-timeliness.-1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.-1', 'food-safety.packaging-packing.-1'  "
+606340295," 'company-brand.reputation-customer-expectation.-1', 'quality.food-drink-quality.-1', 'experience.overall-satisfaction.-1'  "
+606340366," 'quality.preparation-satisfaction.-1', 'food-drink.hot-dog.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1'  "
+606340446," 'order-payment.payment-process.-1', 'order-payment.payment-method.-1', 'order-payment.refund.-1'  "
+606340487," 'quality.food-drink-quality.-1', 'food-drink.hot-dog.-1', 'food-drink.sandwiches.-1', 'food-drink.burger-patties.-1', 'order-payment.price-value-for-money.-1'  "
+606340506," 'quality.food-temperature.1', 'restaurant.busy-peak-hours.1','delivery.speed-timeliness.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606340509," 'food-drink.fries.-1', 'food-safety.foreign-objects.-1'  "
+606340540, 'order-payment.promotions-offers.0'  
+606340599," 'order-payment.payment-process.-1', 'order-payment.payment-method.-1'  "
+606340612," 'quality.preparation-satisfaction.-1', 'food-drink.toppings-fillings.-1', 'experience.overall-satisfaction.-1'  "
+606340622, 'food-drink.drink.-1'  
+606340712," 'restaurant.bathrooms.-1', 'staff.staff-member-named.1'  "
+606340715, 'order-payment.payment-process.-1'  
+606340896," 'quality.food-drink-quality.-1', 'restaurant.cleanliness-hygiene.-1', 'restaurant.wait-time-queue.-1', 'food-drink.fries.-1', 'food-drink.portion-size.-1', 'experience.intent-to-return.-1'  "
+606340930," 'order-payment.payment-process.-1', 'order-payment.refund.-1'  "
+606340938," 'company-brand.reviews.1', 'food-drink.burger-patties.1', 'staff.overall-satisfaction.1'  "
+606340948, 'restaurant.parking.-1'  
+606340956," 'quality.food-drink-quality.-1', 'quality.food-temperature.-1'  "
+606340982," 'quality.food-temperature.-1', 'quality.preparation-satisfaction.-1', 'food-drink.toppings-fillings.-1', 'order-payment.refund.-1', 'accuracy.missing-toppings.-1', 'accuracy.wrong-toppings.-1'  "
+606341051," 'quality.preparation-satisfaction.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1'  "
+606341061, 'staff.attitude-of-staff.1'  
+606341071," 'quality.food-drink-quality.1', 'restaurant.wait-time-queue.1', 'food-drink.sandwiches.1', 'food-drink.burger-patties.1', 'staff.attitude-of-staff.1'  "
+606341274," 'company-brand.brand-mention.-1', 'quality.freshness-ingredient-quality.-1', 'quality.food-drink-quality.-1', 'quality.preparation-satisfaction.-1', 'food-drink.hot-dog.-1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'order-payment.price-value-for-money.-1'  "
+606341343," 'company-brand.suggestions.0', 'food-safety.dietary-requirements.-1'  "
+606341465," 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'staff.attitude-of-staff.-1', 'order-payment.refund.-1'  "
+606341605, 'order-payment.price-value-for-money.-1'  
+606341614," 'staff.overall-satisfaction.1', 'staff.staff-member-named.1'  "
+606341620," 'order-payment.payment-process.-1', 'order-payment.payment-method.-1'  "
+606341787," 'restaurant.parking.-1', 'delivery.pickup-experience.-1'  "
+606341791," 'company-brand.brand-mention.-1', 'company-brand.competitor-comparison.-1', 'order-payment.payment-process.-1', 'order-payment.payment-method.-1'  "
+606341840," 'quality.preparation-satisfaction.-1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'food-drink.burger-patties.-1', 'food-safety.foreign-objects.-1'  "
+606341854, 'order-payment.promotions-offers.0'  
+606341861," 'quality.preparation-satisfaction.-1', 'food-drink.fries.1', 'food-drink.burger-patties.-1', 'order-payment.refund.-1'  "
+606341871," 'company-brand.competitor-comparison.-1', 'quality.appearance-damage.-1', 'quality.food-drink-quality.-1', 'quality.flavour-bland.-1', 'quality.texture.-1', 'food-drink.burger-patties.-1', 'experience.intent-to-return.-1'  "
+606341937," 'order-payment.payment-process.-1', 'order-payment.payment-method.-1'  "
+606341995," 'quality.food-drink-quality.-1', 'quality.preparation-satisfaction.-1'  "
+606342039, 'order-payment.payment-process.-1'  
+606342100, 'quality.food-drink-quality.-1'  
+606342232," 'restaurant.cleanliness-hygiene.-1', 'restaurant.seating.-1'  "
+606342368," 'quality.food-drink-quality.1', 'quality.preparation-satisfaction.1', 'food-drink.burger-patties.1'  "
+606342510, 'quality.food-drink-quality.1'  
+606342591," 'company-brand.brand-mention.-1', 'restaurant.covid-19.-1', 'food-drink.fries.-1', 'delivery.courier-deliver-partner.-1', 'delivery.pickup-experience.-1', 'experience.overall-satisfaction.-1'  "
+606342635, 'staff.staff-member-named.1'  
+606342671," 'food-drink.drink.1', 'food-drink.shake-milkshake.1'  "
+606342691," 'quality.food-drink-quality.1', 'restaurant.environment-atmosphere.1'  "
+606343024, 'food-drink.shake-milkshake.-1'  
+606343117, 'online-platform.functionality-ease-of-use.-1'  
+606343122," 'restaurant.bathrooms.-1', 'food-drink.portion-size.-1'  "
+606343174," 'food-drink.burger-patties.-1', 'order-payment.payment-process.-1'  "
+606343229, 'food-drink.burger-patties.1'  
+606343431," 'quality.food-temperature.-1', 'quality.texture.-1', 'food-drink.fries.1', 'food-drink.bread-bun.-1'  "
+606343464, 'order-payment.price-value-for-money.-1'  
+606343482," 'company-brand.brand-mention.-1', 'staff.problem-resolution.-1', 'staff.communication.-1', 'order-payment.payment-process.-1', 'order-payment.refund.-1'  "
+606343488, 'order-payment.payment-method.0'  
+606343554," 'food-drink.fries.1', 'food-drink.burger-patties.1', 'staff.overall-satisfaction.1', 'staff.staff-member-named.1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.1'  "
+606343657," 'quality.preparation-satisfaction.1', 'restaurant.environment-atmosphere.1', 'restaurant.cleanliness-hygiene.1', 'restaurant.quality-satisfaction.1'  "
+606343671," 'staff.overall-satisfaction.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606343781," 'quality.food-temperature.-1', 'restaurant.wait-time-queue.-1', 'delivery.speed-timeliness.-1', 'order-payment.refund.-1', 'experience.intent-to-return.-1'  "
+606344027," 'staff.staff-member-named.1', 'food-safety.allergic-reactions.1'  "
+606344051, 'food-drink.drink.-1'  
+606344415, 'experience.overall-satisfaction.1'  
+606344446," 'quality.food-drink-quality.1', 'food-drink.sandwiches.1'  "
+606344631," 'food-drink.drink.-1', 'order-payment.payment-process.-1'  "
+606344643, 'restaurant.location.-1'  
+606344680," 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606344915," 'company-brand.reviews.-1', 'restaurant.cleanliness-hygiene.-1', 'restaurant.seating.-1'  "
+606345032," 'quality.food-drink-quality.1', 'food-drink.fries.1'  "
+606345361," 'order-payment.promotions-offers.-1', 'experience.overall-satisfaction.1'  "
+606345596," 'quality.food-drink-quality.1', 'restaurant.environment-atmosphere.1', 'restaurant.wait-time-queue.1', 'experience.overall-satisfaction.1'  "
+606345616," 'staff.customer-support.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606345635, 'food-drink.fries.-1'  
+606345761," 'food-drink.hot-dog.1', 'food-drink.drink.1', 'food-drink.burger-patties.1', 'staff.overall-satisfaction.1', 'staff.customer-support.1'  "
+606345960, 'restaurant.cleanliness-hygiene.-1'  
+606345990," 'restaurant.cleanliness-hygiene.1', 'restaurant.wait-time-queue.1', 'food-drink.fries.1', 'staff.attitude-of-staff.1', 'experience.recommend.1', 'experience.overall-satisfaction.1'  "
+606346079, 'experience.overall-satisfaction.1'  
+606346113, 'experience.intent-to-return.1'  
+606346137," 'staff.staff-member-named.1', 'food-safety.allergic-reactions.1'  "
+606346739," 'quality.food-drink-quality.1', 'food-drink.portion-size.1', 'order-payment.price-value-for-money.1'  "
+606347010," 'quality.food-drink-quality.1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606347058," 'quality.food-temperature.-1', 'quality.preparation-satisfaction.-1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1'  "
+606347786," 'food-drink.drink.1', 'staff.overall-satisfaction.1', 'staff.staff-member-named.1'  "
+606348048," 'quality.appearance-damage.-1', 'quality.food-drink-quality.1'  "
+606348156, 'staff.customer-support.1'  
+606348251," 'quality.freshness-ingredient-quality.-1', 'quality.food-drink-quality.-1', 'quality.preparation-satisfaction.-1', 'food-drink.shake-milkshake.-1', 'food-drink.burger-patties.-1', 'order-payment.price-value-for-money.-1', 'experience.intent-to-return.-1'  "
+606348284," 'delivery.speed-timeliness.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1'  "
+606348400," 'quality.food-drink-quality.1', 'quality.flavour-bland.1', 'order-payment.promotions-offers.-1', 'order-payment.price-value-for-money.-1'  "
+606348541, 'experience.overall-satisfaction.1'  
+606348560, 'food-drink.fries.-1'  
+606348585," 'staff.overall-satisfaction.1', 'staff.staff-member-named.1'  "
+606350171," 'restaurant.bathrooms.-1', 'staff.staff-member-named.1'  "
+606350176," 'staff.staff-member-named.-1', 'order-payment.payment-process.-1', 'order-payment.refund.-1'  "
+606350215," 'company-brand.brand-mention.-1', 'staff.customer-support.-1', 'staff.communication.-1', 'experience.intent-to-return.-1', 'food-safety.foreign-objects.-1'  "
+606350234," 'food-drink.sandwiches.1', 'food-drink.burger-patties.1', 'staff.staff-member-named.1'  "
+606350254," 'food-drink.peanut-oil.-1', 'food-drink.fries.-1', 'food-safety.allergic-reactions.-1'  "
+606350325," 'quality.food-drink-quality.1', 'food-drink.hot-dog.1', 'food-drink.sandwiches.1', 'food-drink.drink.1', 'food-drink.burger-patties.1'  "
+606350346," 'quality.food-temperature.-1', 'food-drink.burger-patties.-1', 'experience.overall-satisfaction.-1'  "
+606350359, 'quality.food-drink-quality.1'  
+606350365," 'company-brand.brand-mention.1', 'restaurant.cleanliness-hygiene.1', 'staff.attitude-of-staff.1', 'staff.staff-member-named.1', 'experience.intent-to-return.1'  "
+606350425, 'order-payment.refund.-1'  
+606350474," 'quality.food-drink-quality.1', 'food-drink.drink.1', 'food-drink.shake-milkshake.1'  "
+606350486, 'restaurant.location.-1'  
+606350517," 'order-payment.payment-process.-1', 'order-payment.payment-method.-1', 'order-payment.promotions-offers.-1'  "
+606350639," 'quality.preparation-satisfaction.-1', 'food-drink.burger-patties.-1'  "
+606350751," 'quality.preparation-satisfaction.-1', 'food-drink.burger-patties.-1', 'food-safety.caused-sickness-illness.-1'  "
+606350821, 'food-drink.shake-milkshake.-1'  
+606350841," 'staff.attitude-of-staff.-1', 'order-payment.promotions-offers.-1'  "
+606350995," 'quality.preparation-satisfaction.-1', 'food-drink.fries.-1'  "
+606351040," 'quality.food-drink-quality.-1', 'quality.food-temperature.-1', 'quality.preparation-satisfaction.-1', 'food-drink.drink.-1', 'food-drink.shake-milkshake.-1', 'food-drink.fries.-1', 'food-drink.burger-patties.-1', 'food-drink.portion-size.-1', 'experience.overall-satisfaction.-1'  "
+606351112," 'quality.preparation-satisfaction.-1', 'experience.overall-satisfaction.-1'  "
+606351179, 'order-payment.refund.-1'  
+606351194," 'quality.preparation-satisfaction.-1', 'food-drink.fries.-1'  "
