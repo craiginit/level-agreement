@@ -2,7 +2,7 @@
 
 ## Description
 
-The Level Agreement Tool is a tool designed to compare two sets of processed data: 'X' serving as the ground truth and 'Y' as the comparison set. The tool focuses on specific columns, namely [id, comments, prediction]. By utilizing this tool, users can merge the datasets and assess label differences effectively. It provides computed metrics that facilitate the identification of the more accurate and aligned dataset, aligning with the users' expectations.
+The Level Agreement Tool is a tool designed to compare two sets of processed data: 'X' serving as the ground truth and 'Y' as the comparison set. The tool focuses on specific columns, namely [id, comments, prediction]. By utilizing this tool, users can merge the datasets and assess label differences effectively. It provides computed metrics that facilitate the identification of the more accurate and aligned dataset, aligning with the users' expectations. All data used for testing is augmented and generated.
 
 ## Features
 
@@ -40,7 +40,7 @@ We welcome contributions from the community. If you want to contribute to this p
 
 ## Authors and Acknowledgment
 
-This tool is maintained by Craig Munthali. I appreciate the contributions of all our contributors (chevy, Diego).
+This tool is maintained by Craig Munthali. 
 
 ## License
 
