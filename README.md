@@ -40,7 +40,7 @@ We welcome contributions from the community. If you want to contribute to this p
 
 ## Authors and Acknowledgment
 
-This tool is maintained by Craig. 
+This tool is maintained by Craig Munthali. 
 
 ## License
 
